@@ -1,2 +1,2 @@
 # AFCENet
-Code will coming soon!
+Code will come soon!
