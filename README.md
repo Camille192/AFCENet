@@ -1,5 +1,6 @@
 # AFCENet
-<img width="4280" height="2342" alt="overview_1" src="https://github.com/user-attachments/assets/9d89567d-03a8-4275-b051-50a9f4517ebc" />
+<img width="768" height="419" alt="Snipaste_2026-06-15_15-12-26" src="https://github.com/user-attachments/assets/fa09ee4f-8ace-4c79-bd78-122dd50c7d53" />
+
 
 
 
